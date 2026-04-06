@@ -562,7 +562,7 @@
 
 .engGuideBlock {
   color: #000;
-  background-color: #f9f6f5;
+  /* background-color: #f9f6f5; */
   max-width: 1172px;
   margin-left: 1rem;
   margin-right: 1rem;
@@ -572,9 +572,9 @@
 
 @media (min-width: 768px) {
   .engGuideBlock {
-    padding-left: 24px;
-    padding-right: 24px;
-    width: 85%;
+    padding-left: 50px;
+    padding-right: 50px;
+    /* width: 85%; */
   }
 }
 
