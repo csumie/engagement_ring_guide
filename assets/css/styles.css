@@ -1013,6 +1013,10 @@ body {
   }
 }
 
+.card {
+  background-color: transparent;
+}
+
 .overlay {
   display: none;
   position: fixed;
