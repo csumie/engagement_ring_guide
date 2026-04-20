@@ -103,8 +103,8 @@
   #reeds-engagement-wrapper .col-md-10 {
     position: relative;
     min-height: 1px;
-    padding-right: 15px;
-    padding-left: 15px;
+    /* padding-right: 15px;
+    padding-left: 15px; */
   }
   @media (min-width: 992px) {
     #reeds-engagement-wrapper .col-md-6,
