@@ -65,9 +65,9 @@ body {
   max-width: 1400px;
   margin: auto;
   padding: 70px 20px 40px;
-  display: flex;
+  /* display: flex;
   justify-content: space-between;
-  align-items: flex-end;
+  align-items: flex-end; */
   gap: 2rem;
 }
 
