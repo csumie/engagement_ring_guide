@@ -387,6 +387,7 @@ body {
 
 .card {
   background-color: transparent;
+  border: none;
 }
 
 .overlay {
